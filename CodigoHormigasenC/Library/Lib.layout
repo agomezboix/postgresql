@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="ACO_TSP.c" open="1" top="0" tabpos="1">
+		<Cursor position="375" topLine="9" />
+	</File>
+	<File name="Ants.c" open="1" top="1" tabpos="2">
+		<Cursor position="1394" topLine="30" />
+	</File>
+	<File name="Library.h" open="1" top="0" tabpos="3">
+		<Cursor position="331" topLine="0" />
+	</File>
+	<File name="Resource.c" open="1" top="0" tabpos="4">
+		<Cursor position="2613" topLine="57" />
+	</File>
+	<File name="geqo_random.c" open="1" top="0" tabpos="5">
+		<Cursor position="512" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="6">
+		<Cursor position="732" topLine="6" />
+	</File>
+</CodeBlocks_layout_file>

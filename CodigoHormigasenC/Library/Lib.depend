@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1373274703 source:d:\laura\uclv\postgresql\programacion\codigohormigasenc\library\ants.c
+	<stdio.h>
+	<stdlib.h>
+	"Library.h"
+
+1373371007 d:\laura\uclv\postgresql\programacion\codigohormigasenc\library\library.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1373272963 source:d:\laura\uclv\postgresql\programacion\codigohormigasenc\library\resource.c
+	<stdio.h>
+	<stdlib.h>
+	"Library.h"
+
+1372843176 source:d:\laura\uclv\postgresql\programacion\codigohormigasenc\library\eran.c
+	"Library.h"
+
+1373371115 source:d:\laura\uclv\postgresql\programacion\codigohormigasenc\library\geqo_random.c
+	"Library.h"
+
+1373371320 source:d:\laura\uclv\postgresql\programacion\codigohormigasenc\library\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1373274995 source:d:\laura\uclv\postgresql\programacion\codigohormigasenc\library\aco_tsp.c
+	<stdio.h>
+	<stdlib.h>
+	"Library.h"
+

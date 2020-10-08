@@ -1,0 +1,4 @@
+
+con costo 2161.000000
+numero de iteraciones: 5
+El mejor camino es: 4, 13, 7, 17, 6, 8, 14, 15, 3, 11, 5, 2, 10, 9, 12, 16, 1, 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Lib" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="Lib" prefix_auto="1" extension_auto="1" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Library.h">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eran.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="geqo_random.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ACO_TSP.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Ants.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Resource.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
